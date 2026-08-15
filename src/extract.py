@@ -5,7 +5,7 @@ import time
 
 def ekstraksi_data():
     ROOT_DIR = Path(__file__).resolve().parent.parent
-    FILE_PATH =ROOT_DIR / "data" / "data_penjualan_buku.csv"
+    FILE_PATH =ROOT_DIR / "data" / "raw" /"data_penjualan_buku.csv"
     
     log.logger.info("Proses mengambil data...")
     time.sleep(5)

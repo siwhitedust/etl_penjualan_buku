@@ -14,7 +14,7 @@ def transform_data():
     log.logger.info("Berhasil menghapus data duplikat")
     
     log.logger.info("Proses mengubah data type tanggal menjadi datetime")
-    ambil_data["Tanggal"] = pd.to_datetime(ambil_data["Tanggal"], format="mixed", dayfirst=True)
+    ambil_data["Tanggal"] = pd.to_datetime(ambil_data["Tanggal"], format="mixed", dayfirst=True).dt.date
     time.sleep(5)
     log.logger.info("Berhasil mengubah tipe data")
     time.sleep(3)

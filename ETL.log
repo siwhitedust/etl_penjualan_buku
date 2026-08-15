@@ -89,3 +89,29 @@
 2026-08-15 23:37:20 - [INFO] - Berhasil menyimpan data
 2026-08-16 00:05:06 - [INFO] - Memulai koneksi ke database MySql
 2026-08-16 00:05:06 - [INFO] - Berhasil connect ke database
+2026-08-16 00:10:04 - [INFO] - Memulai koneksi ke database MySql
+2026-08-16 00:10:04 - [INFO] - Berhasil connect ke database
+2026-08-16 00:10:04 - [INFO] - Proses mengambil data...
+2026-08-16 00:10:09 - [INFO] - Berhasil mendapatkan data
+2026-08-16 00:10:09 - [INFO] - Proses mengambil data untuk diolah
+2026-08-16 00:10:14 - [INFO] - Proses menghapus data yang duplikat
+2026-08-16 00:10:19 - [INFO] - Berhasil menghapus data duplikat
+2026-08-16 00:10:19 - [INFO] - Proses mengubah data type tanggal menjadi datetime
+2026-08-16 00:10:24 - [INFO] - Berhasil mengubah tipe data
+2026-08-16 00:10:27 - [INFO] - Proses mengambil hasil olahan data
+2026-08-16 00:10:32 - [INFO] - Memulai koneksi ke database MySql
+2026-08-16 00:10:32 - [INFO] - Berhasil connect ke database
+2026-08-16 00:10:32 - [INFO] - Berhasil menyimpan data ke dalam csv dan database
+2026-08-16 00:15:53 - [INFO] - Memulai koneksi ke database MySql
+2026-08-16 00:15:53 - [INFO] - Berhasil connect ke database
+2026-08-16 00:15:53 - [INFO] - Proses mengambil data...
+2026-08-16 00:15:58 - [INFO] - Berhasil mendapatkan data
+2026-08-16 00:15:58 - [INFO] - Proses mengambil data untuk diolah
+2026-08-16 00:16:03 - [INFO] - Proses menghapus data yang duplikat
+2026-08-16 00:16:08 - [INFO] - Berhasil menghapus data duplikat
+2026-08-16 00:16:08 - [INFO] - Proses mengubah data type tanggal menjadi datetime
+2026-08-16 00:16:13 - [INFO] - Berhasil mengubah tipe data
+2026-08-16 00:16:16 - [INFO] - Proses mengambil hasil olahan data
+2026-08-16 00:16:21 - [INFO] - Memulai koneksi ke database MySql
+2026-08-16 00:16:21 - [INFO] - Berhasil connect ke database
+2026-08-16 00:16:21 - [INFO] - Berhasil menyimpan data ke dalam csv dan database
