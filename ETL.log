@@ -4,3 +4,10 @@
 2026-08-15 17:37:20 - [INFO] - test
 2026-08-15 17:37:20 - [INFO] - Proses mengambil data...
 2026-08-15 17:37:25 - [INFO] - Berhasil mendapatkan data
+2026-08-15 17:53:49 - [INFO] - Proses mengambil data...
+2026-08-15 17:53:54 - [INFO] - Berhasil mendapatkan data
+2026-08-15 17:53:54 - [INFO] - Proses mengambil data untuk diolah
+2026-08-15 17:53:54 - [INFO] - Proses mengambil data...
+2026-08-15 17:53:59 - [INFO] - Berhasil mendapatkan data
+2026-08-15 17:53:59 - [INFO] - Menghapus data yang duplikat
+2026-08-15 17:53:59 - [INFO] - mengubah data type tanggal menjadi datetime
