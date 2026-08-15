@@ -1,8 +1,8 @@
 import logging
 from pathlib import Path
 
+logger = logging.getLogger(__name__)
 def log_aktivitas():
-    logger = logging.getLogger(__name__)
     logger.setLevel(logging.DEBUG)
     
     if logger.hasHandlers():
@@ -24,7 +24,5 @@ def log_aktivitas():
 
     logger.addHandler(console)
     logger.addHandler(file_handler)
-
-    logger.info("test masuk dari main")
     
     return logger
