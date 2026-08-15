@@ -87,3 +87,5 @@
 2026-08-15 23:37:12 - [INFO] - Berhasil mengubah tipe data
 2026-08-15 23:37:15 - [INFO] - Proses mengambil hasil olahan data
 2026-08-15 23:37:20 - [INFO] - Berhasil menyimpan data
+2026-08-16 00:05:06 - [INFO] - Memulai koneksi ke database MySql
+2026-08-16 00:05:06 - [INFO] - Berhasil connect ke database
