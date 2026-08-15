@@ -1,0 +1,12 @@
+[build-system]
+
+[project]
+name = "ETL_penjualan_buku"
+version = "0.1.0"
+require_python = ">=3.14"
+dependencies = [
+    "sqlalchemy"
+    "python-dotenv"
+    "pandas"
+    "logging"
+]

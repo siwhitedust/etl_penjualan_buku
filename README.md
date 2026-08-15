@@ -1,0 +1,1 @@
+Project kecil-kecilan untuk belajar terbiasa dengan proses ETL dengan sqlalchemy, pandas, dan struktur folder.
