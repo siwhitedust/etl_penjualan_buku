@@ -4,8 +4,8 @@ from src.utils import logger as log
 import time
 
 def transform_data():
-    log.logger.info("Proses mengambil data untuk diolah")
     ambil_data = extrc.ekstraksi_data()
+    log.logger.info("Proses mengambil data untuk diolah")
     time.sleep(5)
     
     log.logger.info("Proses menghapus data yang duplikat")
